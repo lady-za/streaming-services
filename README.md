@@ -3,4 +3,4 @@ Since the COVID-19 pandemic, with most of the national population staying at hom
 # Problem Statement
 The issues that was raised by the film academy and national regulator was that the dataset for these streaming services are stored as raw file with some fields that need to be processed, the data contains thousands of rows and they would want overview of a dashboard with key indicators, and some machine learning visuals can be build to do some prediction based on historical data.
 # Orchestration Solution
-![My Image](Solution Diagrams/Projects.jpg)
+![My Image](https://github.com/lady-za/streaming-services/blob/37ce47b52e5100a3b5d778c534e94438dc7d4168/Solution%20Diagrams/Projects.jpg)
