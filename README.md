@@ -12,7 +12,8 @@ The issues that was raised by the film academy and national regulator was that t
   - Data Store
   - Tranform
   - Data warehouse:Stategies[Merge and Join on dimension and fact]
+  - 
 
 3.Visualization
-  -RLS Implementation
+- RLSImplementation
 
