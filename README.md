@@ -16,5 +16,6 @@ The issues that was raised by the film academy and national regulator was that t
 
 3.Visualization
 - RLSImplementation
+- CLSImplementation(coloumn level security)
 
 4.Data Activator/Incoming Webhook
