@@ -15,7 +15,7 @@ The issues that was raised by the film academy and national regulator was that t
   - Applying non-clustered index on non-primary/bk coloumns
 
 3.Visualization
-- RLSImplementation
+- RLSImplementation(query folding, external tools)
 - CLSImplementation(coloumn level security)
 
 4.Data Activator/Incoming Webhook
